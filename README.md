@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vashbhat
 - 👀 I’m interested in Programming, Engineering.
-- 🌱 I’m currently learning Fullstack Development.
+- 🌱 I’m currently focusing on DevOps.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
